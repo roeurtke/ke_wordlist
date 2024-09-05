@@ -4,7 +4,6 @@
 password
 qwerty
 abc123
-12345678
 password1
 1234567
 123123
@@ -22,7 +21,7 @@ dragon
 654321
 666666
 123
-kesei@A96
+12345678
 myspace1
 a123456
 121212
